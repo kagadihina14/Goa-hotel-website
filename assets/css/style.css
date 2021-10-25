@@ -13,7 +13,9 @@
 .banner-content{
     z-index: 2;
 }
-
+.hotel-name{
+    width: 100%;
+}
 /* ************************************services************************************ */
 
 .header{
@@ -92,7 +94,7 @@ h1 {
         margin-bottom: 5px;
     }
     .hotel-name{
-        font-size: 20px;
+        font-size: 19px;
     }
     .hotel-number{
         font-size: 16px;
